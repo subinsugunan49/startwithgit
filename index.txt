@@ -1,2 +1,2 @@
 Lets try with github , 
-Git hub is a private company ,which will provide a server hub to uplload the public project into the server
+Git hub is a private company ,which will provide a server  to uplload the public project into the server
