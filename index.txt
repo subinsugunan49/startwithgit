@@ -1,3 +1,2 @@
-Git Samle to get the project
-Git after commit
-Git 
+Lets try with github , 
+Git hub is a private company ,which will provide a server hub to uplload the public project into the server
